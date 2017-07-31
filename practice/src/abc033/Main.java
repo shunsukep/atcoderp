@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 	http://abc033.contest.atcoder.jp/tasks/abc033_a
- *  A.暗証番号
+ *  ABC033_A
  */
 public class Main {
 	public static void main(String[] args) {
